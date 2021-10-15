@@ -1,0 +1,16 @@
+{
+  "name": "server-timetable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^2.11.0",
+    "fastify-helmet": "^3.0.2",
+    "fastify-static": "^2.6.0"
+  }
+}
